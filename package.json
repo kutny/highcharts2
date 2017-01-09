@@ -1,0 +1,13 @@
+{
+  "name": "highcharts2",
+  "description": "JavaScript charting framework",
+  "homepage": "http://www.highcharts.com",
+  "version": "v2.2.5",
+  "author": "Highsoft AS <support@highcharts.com> (http://www.highcharts.com/about)",
+  "main": "highcharts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kutny/highcharts2"
+  },
+  "license": "https://www.highcharts.com/license"
+}
